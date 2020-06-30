@@ -2,5 +2,5 @@
 # submodule-repo
 
 requests
-git+https://git@github.com:ardalanrazavi/submodule-repo.git
+git+https://github.com/ardalanrazavi/submodule-repo.git
 
