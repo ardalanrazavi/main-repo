@@ -1,0 +1,2 @@
+--extra-index-url https://repo.fury.io/HXjZneiE7SCMAYhF563J/me/
+main-repo
