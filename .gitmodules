@@ -1,3 +1,3 @@
 [submodule "submodule-repo"]
 	path = submodule-repo
-	url = git@github.com:ardalanrazavi/submodule-repo.git
+	url = https://ardalanrazavi:531089b6a495fa2d821f4a465c34d23bfd1187cf@../submodule-repo.git
