@@ -2,7 +2,8 @@
 # submodule-repo
 
 requests
-git+ssh://git@github.com/ardalanrazavi/submodule-repo.git#egg=submodule-repo
+
+# git+ssh://git@github.com/ardalanrazavi/submodule-repo.git#egg=submodule-repo
 
 
 
